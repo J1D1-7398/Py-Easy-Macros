@@ -1,5 +1,5 @@
 # Py-Easy-Macros
-Easy to setup macros written in python. It only supports keyboard keys for now, but I will add support to clicks and press buttons. It should work fine on any system. If you have any questions or issue, feel free to set up an issue or contact me by e-mail.
+Easy to setup macros written in python. It only supports keyboard keys for now, but I will add support to clicks, holding buttons and adding more macros. It should work fine on any system. If you have any questions or issue, feel free to set up an issue or contact me by e-mail.
 
 ## Requirements:
 ### Python:
@@ -37,6 +37,7 @@ python main.py
    - Exits the program
 
 ✅ It should work fine!
+
 
 Any errors or questions you have, feel free to write an issue or contact me through e-mail
 
