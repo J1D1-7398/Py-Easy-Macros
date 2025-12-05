@@ -28,7 +28,7 @@ python main.py
 2. Create macro
    - Starts the setup of the macro
 
-     ⚠️ If you have already created a macro, selecting this option will not override the first macro, it will just add the keys to the first macro
+   ⚠️ If you have already created a macro, selecting this option will not override the first macro, it will just add the keys to the first macro
 3. Run macro
    - Runs the created macro
 4. Delete macro
