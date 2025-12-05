@@ -22,6 +22,19 @@ When you have reached the directory in Command Prompt type
 python main.py
 ```
 
+#### Options:
+1. Available keys
+   - Displays all accepted keys to create the macro
+2. Create macro
+   - Starts the setup of the macro
+     ⚠️ If you have already created a macro, selecting this option will not override the first macro, it will just add the keys to the first macro
+3. Run macro
+   - Runs the created macro
+4. Delete macro
+   - Deletes the created macro
+5. Exit
+   - Exits the program
+
 ✅ It should work fine!
 
 Any errors or questions you have, feel free to write an issue or contact me through e-mail
